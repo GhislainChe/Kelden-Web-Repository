@@ -1,0 +1,8 @@
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\bin\Debug\case calculator.exe
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\bin\Debug\case calculator.pdb
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\bin\Debug\case calculator.xml
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\obj\x86\Debug\case calculator.vbproj.GenerateResource.Cache
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\obj\x86\Debug\case calculator.exe
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\obj\x86\Debug\case calculator.xml
+C:\Users\ghisl\Documents\ALL\PROGRAMMING AND CODING\visual basics\case calculator\case calculator\obj\x86\Debug\case calculator.pdb
